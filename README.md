@@ -1,6 +1,8 @@
-<h1 align="center">Auth Project 🔒 </h1>
+<h1 align="center">Auth Project 🔒</h1>
 
-![Demo App](https://i.ibb.co/QQ9vNK2/auth-project.png)
+<div align="center">
+  <img src="https://i.ibb.co/QQ9vNK2/auth-project.png" alt="Demo App">
+</div>
 
 Some Features:
 
