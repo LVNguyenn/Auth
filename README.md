@@ -1,7 +1,7 @@
 <h1 align="center">Auth Project 🔒</h1>
 
 <div align="center">
-  <img src="https://i.ibb.co/QQ9vNK2/auth-project.png" alt="Demo App">
+  <img src="https://i.postimg.cc/1Xg1K5w2/demo-auth.png" alt="Demo App">
 </div>
 
 Some Features:
