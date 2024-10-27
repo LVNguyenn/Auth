@@ -33,7 +33,7 @@ NODE_ENV=development
 MAILTRAP_TOKEN=your_mailtrap_token
 MAILTRAP_ENDPOINT=https://send.api.mailtrap.io/
 
-CLIENT_URL= http://localhost:5173
+CLIENT_URL= https://auth-3pke.onrender.com
 ```
 
 ### Build the app
